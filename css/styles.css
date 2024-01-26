@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  margin: 1em;
+}
+
+body {
+  background-color: aqua;
+}
+header {
+  background-color: aquamarine;
+}
+.multinav {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin: 5em;
+  left: 50%;
+  top: 1000%;
+}
+.nav {
+  top: 10%;
+  left: 50%;
+  margin: 0.5em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.nav:hover {
+  font-size: large;
+}
+p {
+  margin: 1em;
+}
