@@ -8,15 +8,15 @@ body {
   background-color: black;
 }
 #main {
-  height: 24.9em;
+  height: 44.3em;
 }
 #bottom {
   height: 5em;
   border-color: orange;
 }
-.altura {
+/* .altura {
   height: 100vh;
-}
+} */
 #logo {
   height: 5em;
   width: 5em;
