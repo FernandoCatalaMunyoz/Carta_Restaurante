@@ -5,13 +5,14 @@ body {
 }
 #up {
   height: 8em;
+  background-color: black;
 }
 #main {
   height: 24.9em;
-  background-color: aquamarine;
 }
 #bottom {
   height: 5em;
+  border-color: orange;
 }
 .altura {
   height: 100vh;
@@ -48,6 +49,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
+  background-color: orange;
 }
 #rrss {
   display: flex;
@@ -59,4 +61,7 @@ body {
   width: 2em;
 
   margin: 0.5em;
+}
+#botName {
+  color: black;
 }
