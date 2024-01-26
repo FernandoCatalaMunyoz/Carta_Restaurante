@@ -4,13 +4,14 @@ body {
   background-color: black;
 }
 #up {
-  height: 20%;
+  height: 8em;
 }
 #main {
-  height: 70%;
+  height: 24.9em;
+  background-color: aquamarine;
 }
 #bottom {
-  height: 10%;
+  height: 5em;
 }
 .altura {
   height: 100vh;
@@ -30,12 +31,13 @@ body {
 #upRight {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 .intMenu {
-  margin: 0.5em;
+  margin: 0.22em;
   padding: 0.2em;
-  color: orange;
+  color: rgb(1, 1, 1);
+  background-color: orange;
   outline-color: orange;
   outline-style: double;
   border-radius: 2%;
