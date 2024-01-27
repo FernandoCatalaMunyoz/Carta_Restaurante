@@ -37,11 +37,9 @@ body {
 .intMenu {
   margin: 0.22em;
   padding: 0.2em;
-  color: rgb(1, 1, 1);
-  background-color: orange;
-  outline-color: orange;
-  outline-style: double;
-  border-radius: 2%;
+  color: orange;
+
+  font-weight: bold;
 }
 #botItems {
   color: orange;
@@ -67,9 +65,18 @@ body {
 }
 a:link {
   text-decoration: none;
-  color: black;
+  color: orange;
 }
 a:visited {
   text-decoration: none;
+  color: orange;
+}
+a:hover {
   color: black;
+  background-color: orange;
+  outline-color: orange;
+  outline-style: double;
+  border-radius: 2%;
+  margin: 0.22em;
+  padding: 0.2em;
 }
