@@ -73,3 +73,8 @@ a:visited {
   text-decoration: none;
   color: black;
 }
+video::-webkit-media-controls-fullscreen-button,
+video::-webkit-media-controls-play-button,
+video::-webkit-media-controls-pausebutton {
+  display: none;
+}
