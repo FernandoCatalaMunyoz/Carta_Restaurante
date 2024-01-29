@@ -1,4 +1,4 @@
-body {
+.body {
   min-height: 100vh;
   width: 96vw;
 
@@ -11,7 +11,7 @@ body {
   justify-content: center;
 }
 #up {
-  height: 8em;
+  height: 12em;
   background-color: black;
 }
 #main {
@@ -21,10 +21,11 @@ body {
   height: 5em;
   border-color: orange;
   width: 100vw;
+  margin-left: 0em;
 }
-/* .altura {
-  height: 100vh;
-} */
+.altura {
+  background-color: black;
+}
 #logo {
   height: 5em;
   width: 5em;

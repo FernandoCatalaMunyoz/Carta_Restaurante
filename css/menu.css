@@ -1,6 +1,6 @@
 .card {
   background-color: rgb(242, 181, 67);
-  height: 30em;
+  height: 29em;
   width: 22em;
   outline-color: orange;
   outline-style: auto;
@@ -10,12 +10,14 @@
   justify-content: center;
   align-items: center;
 
-  margin: 1em;
+  margin: 2em;
 }
-.colc {
+.colMenu {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: black;
+  margin: 0em;
 }
 .menuPhoto {
   height: 17em;
