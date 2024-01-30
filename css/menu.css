@@ -1,4 +1,4 @@
-/* .card {
+.card {
   background-color: rgb(242, 181, 67);
   height: 29em;
   width: 22em;
@@ -10,7 +10,7 @@
   justify-content: space-between;
   align-items: center;
 
-  margin: 2em;
+  margin: 3em;
 }
 .colMenu {
   display: flex;
@@ -69,4 +69,4 @@
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
-} */
+}
