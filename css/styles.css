@@ -10,11 +10,11 @@
   align-items: center;
   justify-content: space-between;
 }
-#up {
+.up {
   height: 10em;
   background-color: black;
 }
-#main {
+.main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,7 +23,7 @@
   padding: 0;
   background-color: black;
 }
-#bottom {
+.bottom {
   height: 4.2em;
   border-color: orange;
 
@@ -32,22 +32,22 @@
 .mainMenu {
   background-color: rgb(234, 229, 229);
 }
-#logo {
+.logo {
   height: 5em;
   width: 5em;
 }
-#upLeft {
+.upLeft {
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
-#name {
+.name {
   color: orange;
   font-size: 3.5em;
   font-style: oblique;
   font-weight: bold;
 }
-#upRight {
+.upRight {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -59,7 +59,7 @@
 
   font-weight: bold;
 }
-#botItems {
+.botItems {
   color: orange;
   display: flex;
   flex-direction: column;
@@ -67,7 +67,7 @@
   justify-content: space-around;
   background-color: orange;
 }
-#rrss {
+.rrss {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -78,7 +78,7 @@
 
   margin: 0.5em;
 }
-#botName {
+.botName {
   color: black;
   padding-left: 1em;
 }
@@ -98,21 +98,4 @@ a:hover {
   border-radius: 2%;
   margin: 0.22em;
   padding: 0.2em;
-}
-#mainAbout {
-  color: rgb(0, 0, 0);
-
-  background-color: white;
-  width: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: large;
-  margin-left: -1em;
-}
-#titleAbout {
-  color: black;
-}
-p {
-  font-size: 2em;
 }
