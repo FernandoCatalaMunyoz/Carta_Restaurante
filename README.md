@@ -9,6 +9,7 @@ Bienvenido a la pagina de JENKIN'S. Aqui podras ver nuestros productos, reservar
 - [Imptlementación 📡](#implementación)
 - [Instalación 🚀](#instalación)
 - [Capturas :pager:](#capturas-de-pantalla)
+- [Bugs :cry:](#bugs)
 - [Autor ✒️](#autor)
 - [Agradecimientos 🎓](#agradecimientos)
 
@@ -42,6 +43,10 @@ git clone https://github.com/FernandoCatalaMunyoz/Carta_Restaurante.git
 ## Capturas de pantalla
 
 ![CapturaInicio](./img/captura%20inicio.png){width=200} ![CarturaMenu](./img/caputra%20menu.png){width=200} ![CapturaAbout](./img/captura%20sobre%20nosotros.png){width=200} ![CapturaContacto](./img/camptura%20contacto.png){width=200}
+
+## Bugs
+
+- no he sabido centrar del todo bien las opciones del navegador cuando se convierte en version movil
 
 ## Autor
 

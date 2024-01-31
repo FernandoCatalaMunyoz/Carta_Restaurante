@@ -1,9 +1,10 @@
 .card {
-  background-color: rgb(242, 181, 67);
+  background-color: rgb(8, 8, 8);
   height: 29em;
   width: 22em;
-  outline-color: orange;
-  outline-style: auto;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 
   display: flex;
   flex-direction: column;
@@ -22,7 +23,7 @@
 .menuPhoto {
   height: 17em;
   width: 17em;
-  border-radius: 0.5em;
+  /* border-radius: 0.5em; */
 }
 .titleCard {
   width: 17em;
